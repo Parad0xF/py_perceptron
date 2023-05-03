@@ -9,7 +9,7 @@
 
 
 
-<h1 align= "center">This is mixture of coding challeges and hacks</h1>
+<h1 align= "center">This is repos is an example of a simple Deep Learning project mixture of coding challenges</h1>
 
 Every folder has its own readme file.
 
